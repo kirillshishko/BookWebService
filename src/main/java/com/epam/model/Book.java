@@ -1,4 +1,4 @@
-package epam.model;
+package com.epam.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
